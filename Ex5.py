@@ -1,1 +1,0 @@
-multi_list = (0 for col in range[2] for row in range(3))
